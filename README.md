@@ -5,9 +5,7 @@ Equipe DATA + Réseau
 Léo, Romain, Edgar, Bryan, Alexandre
 
 Projet:
-Dashboard disponible via VM
-Tableau de suivi sur le covid / foot ou autre sujet
-Tableau intéractif avec plusieurs foncitonnalités
+Interface permettant d'obtenir et de comparer les météo des différentes villes
 
 Roles:
 l’équipe de développement:bryan, léo, edgar
