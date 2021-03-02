@@ -10,6 +10,6 @@ Tableau de suivi sur le covid / foot ou autre sujet
 Tableau intéractif avec plusieurs foncitonnalités
 
 Roles:
-l’équipe de développement:
-le Scrum master:
-le product owner:
+l’équipe de développement:bryan, léo, edgar
+le Scrum master: Alexandre  
+le product owner:Romain
